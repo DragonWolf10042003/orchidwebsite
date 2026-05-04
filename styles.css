@@ -1,0 +1,61 @@
+.container {
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+}
+header {
+    height: 120px;
+    background-color: #7FB91A;
+}
+nav {
+    height: 24px;
+    background-color: #27A613;
+    font-size: 0px;
+}
+.container nav .home-btn:hover {
+    content: url("Images/Home-Hyperlink-Blue-Text.jpg");
+}
+
+.container nav .char-btn:hover {
+    content: url("Images/Characteristics-Hyperlink-Blue-Text.jpg");
+}
+
+.container nav .history-btn:hover {
+    content: url("Images/History-Hyperlink-Blue-Text.jpg");
+}
+
+.container nav .anatomy-btn:hover {
+    content: url("Images/Anatomy-Hyperlink-Blue-Text.jpg");
+}
+
+.container nav .care-btn:hover {
+    content: url("Images/Care-Hyperlink-blue-text.jpg");
+}
+
+main {
+    background-color: #00C816;
+	padding: 15px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+footer {
+    height: 160px;
+    background-color: #12E18A;
+	padding: 15px;
+	box-sizing: border-box;
+}
+footer p {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    color: #004ED7;
+    text-align: center;
+    font-size: small;
+}
+footer h1 {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    color: #004ED7;
+    text-align: center;
+    font-size: small;
+}
+htmal, body {
+	background-color:#000000;
+}
